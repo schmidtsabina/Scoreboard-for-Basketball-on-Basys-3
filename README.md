@@ -1,4 +1,6 @@
 Designed a basketball scoreboard using VHDL on a Basys 3 FPGA board and implementied it in Vivado.
+
+
 --the code implements a functional scoreboard system with the ability to count scores for two teams, handle reset operations, prevent accidental score changes, and display the scores on seven-segment displays. The use of a state machine ensures proper control flow, and debounce logic enhances the reliability of input signals.
 --file  Scoreboard.vhd
 
